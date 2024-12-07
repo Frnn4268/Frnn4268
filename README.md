@@ -19,8 +19,8 @@
 ---
 
 ![Snake animation](https://github.com/Frnn4268/Frnn4268/blob/output/snake.svg)
-
 ---
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=Frnn4268&icon=8&color=1)](https://visitcount.itsvg.in)
