@@ -12,24 +12,9 @@ I love building robust and scalable web applications 🕶️.
 - I really like backend and frontend programming.
 - Hobbies: Learn about CI/CD, watch videos, and listening to music.
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/fernando4268/" 
-     style="text-decoration: none; transition: transform 0.3s ease; display: inline-block;"
-     onmouseover="this.style.transform='scale(1.05)'" 
-     onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-         alt="LinkedIn"
-         style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
-
-  <a href="https://portfolio-frnn-4268.netlify.app/" 
-     style="text-decoration: none; transition: transform 0.3s ease; display: inline-block;"
-     onmouseover="this.style.transform='scale(1.05)'" 
-     onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=FF7139" 
-         alt="Portfolio"
-         style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </a>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando4268/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#FF7139)](https://portfolio-frnn-4268.netlify.app/)
 </div>
 
 ## 🧃 My Tech Skill Stack
@@ -45,31 +30,13 @@ I love building robust and scalable web applications 🕶️.
 
 ![Frnn4268's Top Languages in Projects](https://api.githubtrends.io/user/svg/Frnn4268/repos?time_range=one_year&group=other&theme=dark)
 
-<div style="margin-top: 40px; padding: 25px 0; border-top: 1px solid #30363d; text-align: center; color: #8b949e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;">
-  <p style="margin: 0 0 10px 0; font-size: 15px;">
-    👋 Thanks for stopping by! Feel free to explore my repositories if you need:
-  </p>
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <a
-       style="color: #58a6ff; text-decoration: none; transition: color 0.3s ease;"
-       onmouseover="this.style.color='#79c0ff'" 
-       onmouseout="this.style.color='#58a6ff'">
-      🔍 Code Inspiration
-    </a>
-    <a
-       style="color: #58a6ff; text-decoration: none; transition: color 0.3s ease;"
-       onmouseover="this.style.color='#79c0ff'" 
-       onmouseout="this.style.color='#58a6ff'">
-      ⚙️ Technical Solutions
-    </a>
-    <a
-       style="color: #58a6ff; text-decoration: none; transition: color 0.3s ease;"
-       onmouseover="this.style.color='#79c0ff'" 
-       onmouseout="this.style.color='#58a6ff'">
-      🤝 Collaboration
-    </a>
-  </div>
-  <p style="margin: 15px 0 0 0; font-size: 13px;">
-    Happy coding! 🚀
-  </p>
-</div>
+---
+
+👋 Thanks for stopping by! Feel free to explore my repositories if you need:
+
+- 🔍 Code Inspiration
+- ⚙️ Technical Solutions 
+- 🤝 Collaboration
+
+
+Happy coding! 🚀
