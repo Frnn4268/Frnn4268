@@ -12,10 +12,8 @@ I love building robust and scalable web applications 🕶️.
 - I really like backend and frontend programming.
 - Hobbies: Learn about CI/CD, watch videos, and listening to music.
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando4268/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#FF7139)](https://portfolio-frnn-4268.netlify.app/)
-</div>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando4268/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#FF7139)](https://portfolio-frnn-4268.netlify.app/)
 
 ## 🧃 My Tech Skill Stack
 [![My Skills](https://skillicons.dev/icons?i=css,go,html,javascript,markdown,nix,powershell,python,bash,aws,firebase,gcp,heroku,netlify,astro,bootstrap,express,npm,nodejs,react,redux,tailwind,vite,yarn,jenkins,nginx,dynamodb,mongo,mysql,postgres,redis,sqlite,sequelize,github,git,githubactions,docker,kubernetes,postman,terraform,azure,ubuntu,vue,cypress,discord,fastapi,graphql,ai,jest,kali,linux,materialui,opencv,pytorch,rabbitmq,sklearn,selenium,vscode,&perline=15)](https://skillicons.dev)
