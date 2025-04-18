@@ -12,7 +12,7 @@ I love building robust and scalable web applications 🕶️.
 - I really like backend and frontend programming.
 - Hobbies: Learn about CI/CD, watch videos, and listening to music.
 
-### 🌐 Connect with me
+#### *🌐 Connect with me*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando4268/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#FF7139)](https://portfolio-frnn-4268.netlify.app/)
@@ -22,13 +22,13 @@ I love building robust and scalable web applications 🕶️.
 
 ## 📎 GitHub Statistics
 
-![Frnn4268's Stats](https://github-readme-stats.vercel.app/api?username=Frnn4268&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Frnn4268's Stats](https://github-readme-stats.vercel.app/api?username=Frnn4268&theme=dark&show_icons=true&count_private=true)
 
-![Frnn4268's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frnn4268&theme=dark&hide_border=true)
+![Frnn4268's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Frnn4268&theme=dark)
 
-![Frnn4268's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frnn4268&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Frnn4268's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frnn4268&theme=dark&show_icons=true&layout=compact)
 
-![Frnn4268's Top Languages in Projects](https://api.githubtrends.io/user/svg/Frnn4268/repos?time_range=one_year&group=other&theme=dark&hide_border=true)
+![Frnn4268's Top Languages in Projects](https://api.githubtrends.io/user/svg/Frnn4268/repos?time_range=one_year&group=other&theme=dark)
 
 ---
 
