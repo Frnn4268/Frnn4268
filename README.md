@@ -12,7 +12,7 @@ I love building robust and scalable web applications 🕶️.
 - I really like backend and frontend programming.
 - Hobbies: Learn about CI/CD, watch videos, and listening to music.
 
-####* 🪐 Connect with me!*
+#### *🪐 Connect with me!*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=netlify)](https://portfolio-frnn-4268.netlify.app/)
 
