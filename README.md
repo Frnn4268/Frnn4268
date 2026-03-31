@@ -1,7 +1,5 @@
 ![Mi Logo](./img/github-banner-frnn.png)
 
-# Hi there, I'm Fernando! 👋🤖
-
 **AI Specialist | Backend Developer | DevOps Enthusiast**
 
 I love building robust, scalable web applications and intelligent systems 🕶️. Currently, I specialize in Artificial Intelligence, focusing on Machine Learning, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) architectures.
