@@ -7,7 +7,7 @@ I love building robust, scalable web applications and intelligent systems 🕶�
 ### 👨‍💻 About Me
 
 - 🧠 **AI & Data Science:** Specialist in AI models, RAG implementations, and building autonomous AI agents.
-- ⚙️ **Backend & Architecture:** Strong preference for high-performance backend development, image processing middleware, and automation using **Python (FastAPI)** and **Rust**.
+- ⚙️ **Backend & Architecture:** Strong preference for high-performance backend development and automation using **Python (FastAPI and Flask)** and **Rust**.
 - 🐳 **DevOps Culture:** I love dockerizing everything and setting up efficient CI/CD pipelines.
 - 🎓 **Background:** Information Systems Engineering and Computer Science at [Mariano Gálvez University of Guatemala](https://www.umg.edu.gt/).
 - ⚡ **Hobbies:** Learning about new cloud architectures, watching tech videos, and listening to music.
