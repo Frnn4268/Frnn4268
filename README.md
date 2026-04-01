@@ -49,7 +49,7 @@ See my portfolio at [Portfolio](http://portfolio-frnn-4268.netlify.app/)
 👋 **Thanks for stopping by!** Feel free to explore my repositories if you need:
 
 - 🔍 Code Inspiration
-- ⚙️ Technical Solutions (Especially in AI, Rust, and Python!)
+- ⚙️ Technical Solutions (Especially in AI, DevOps, and Python!)
 - 🤝 Collaboration
 
 *Happy coding!* 🚀
