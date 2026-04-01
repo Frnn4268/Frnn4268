@@ -19,13 +19,13 @@ See my portfolio at [Portfolio](http://portfolio-frnn-4268.netlify.app/)
 
 ### 🧃 My Tech Stack
 
-**Artificial Intelligence & Data** [![AI Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,tensorflow&theme=dark)](https://skillicons.dev)
+**Artificial Intelligence & Data** [![AI Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,anaconda,tensorflow&theme=dark)](https://skillicons.dev)
 
-**Backend & Middleware** [![Backend Skills](https://skillicons.dev/icons?i=rust,fastapi,nodejs,express,graphql,sqlite,postgres,mongo,redis,mysql&theme=dark)](https://skillicons.dev)
+**Backend & Middleware** [![Backend Skills](https://skillicons.dev/icons?i=rust,fastapi,nodejs,express,graphql,sqlite,postgres,mongo,redis,mysql,django,firebase,flask,go,jest,npm,postman,rabbitmq,sequelize&theme=dark)](https://skillicons.dev)
 
-**DevOps, Cloud & Tools** [![DevOps Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx,linux,ubuntu,bash,git&theme=dark)](https://skillicons.dev)
+**DevOps, Cloud & Tools** [![DevOps Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx,linux,ubuntu,bash,git,github,heroku,jenkins,netlify,nix,powershell,vercel&theme=dark)](https://skillicons.dev)
 
-**Frontend & Web** [![Frontend Skills](https://skillicons.dev/icons?i=html,css,javascript,react,astro,tailwind,bootstrap,vite&theme=dark)](https://skillicons.dev)
+**Frontend & Web** [![Frontend Skills](https://skillicons.dev/icons?i=html,css,javascript,react,astro,tailwind,bootstrap,vite,cypress,sass,vue&theme=dark)](https://skillicons.dev)
 
 ---
 
