@@ -1,6 +1,6 @@
 ![Mi Logo](./img/github-banner-frnn.png)
 
-**AI Specialist | Backend Developer | DevOps Enthusiast**
+**AI Specialist | DevOps Enthusiast**
 
 I love building robust, scalable web applications and intelligent systems 🕶️. Currently, I specialize in Artificial Intelligence, focusing on Machine Learning, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) architectures.
 
@@ -21,7 +21,7 @@ See my portfolio at [Portfolio](http://portfolio-frnn-4268.netlify.app/)
 
 **Artificial Intelligence & Data** [![AI Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,anaconda,tensorflow&theme=dark)](https://skillicons.dev)
 
-**Backend & Middleware** [![Backend Skills](https://skillicons.dev/icons?i=rust,fastapi,nodejs,express,graphql,sqlite,postgres,mongo,redis,mysql,django,firebase,flask,go,jest,npm,postman,rabbitmq,sequelize&theme=dark)](https://skillicons.dev)
+**Backend** [![Backend Skills](https://skillicons.dev/icons?i=rust,fastapi,nodejs,express,graphql,sqlite,postgres,mongo,redis,mysql,django,firebase,flask,go,jest,npm,postman,rabbitmq,sequelize&theme=dark)](https://skillicons.dev)
 
 **DevOps, Cloud & Tools** [![DevOps Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,nginx,linux,ubuntu,bash,git,github,heroku,jenkins,netlify,nix,powershell,vercel&theme=dark)](https://skillicons.dev)
 
